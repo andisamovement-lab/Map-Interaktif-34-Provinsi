@@ -2,20 +2,24 @@ MIT License
 
 Copyright (c) 2025 Andisa Movement
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Included Map Data License (Simplemaps SVG Map License)
+This project incorporates or modifies SVG map data originally provided by Pareto Software, LLC (Simplemaps.com).
+• © 2024 Pareto Software, LLC DBA Simplemaps.com
+• The SVG map data is Free for Commercial Use, under the full license terms available at:
+https://simplemaps.com/resources/svg-license
+• Redistribution of the map files “as-is” (without modification or added value) is not permitted without written consent from Simplemaps.
+• Attribution is not required but appreciated.
+• The map data is provided “as-is” without any warranty or guarantee as to accuracy or suitability for any particular use.
+
+This project modifies and integrates the map data into an interactive educational tool for learning about Indonesia’s 34 provinces. Suggested attribution (optional but encouraged):
+
+Base map © Simplemaps.com — modified and integrated by Andisa Movement for educational use.
+
+Summary
+This project is licensed primarily under the MIT License, except where noted for third-party components (e.g., map data by Simplemaps.com), which are covered by their respective licenses. Use of this software implies acceptance of both the MIT terms and the Simplemaps SVG Map License terms.
